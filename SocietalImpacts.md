@@ -1,3 +1,5 @@
-#Societal impacts
-# The begining
-
+# Societal impacts
+## The begining
+In the begining before there was ever a google search engine searching for reliable information used to required time and efort,physical resources like books or libraries.When the google search engine was released this revoltionized the spread of knowledge and ideas among everyone this gave people access to vast amounts of knowledge to anyone with an internet connection.This easy access to information has lowered barriers to education and supported lifelong learning allowing induviduals to make more informed decisions.the ability to quikly access access tutorials, news, academic articles, and videos has changed how people study and develop new skills.
+## Googles influence on communication
+Google has reshaped the way that we communicate with one and other aswell as social interactions.Platforms like Gmail, Google Meet, and YouTube this has connected peopple across the world.Gmail in particular is the industry standard for online communication In 2024, 361.6 billion emails were sent per day.These platforms ecourage creativity and provide a space for voices that may not have been heard of in tradional media. However this new resources came with its own challeges online communication reduced face to face socialdevelopment
