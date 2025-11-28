@@ -1,15 +1,17 @@
+# References
+used for engineering view point :
+https://en.wikipedia.org/wiki/PageRank
+ 
+ used for engineering vew point: 
+ https://expertbeacon.com/the-engineering-behind-google-maps-a-deep-dive/
 
-# References 
-## Patrick's references
-• Wikepedia, - (November 26 , 2025) *Larry Page Early Life,Education,PhD studies and research, Search engine development and Google*. [text](https://en.wikipedia.org/wiki/Larry_Page)
+# References for Historical Historical Development
+- Wikipedia contributors. *Sergey Brin*. In *Wikipedia*. from https://en.wikipedia.org/wiki/Sergey_Brin
 
-•Larry Page biograpghy - (January 17, 2025) *Academy of Achievement*. [text](https://achievement.org/achiever/larry-page/)
+- Wikipedia contributors. *Larry Page*. In *Wikipedia*. from https://en.wikipedia.org/wiki/Larry_Page
 
-•Wikepedia, - (November 28 , 2025) *Sergey Brin Early Life,Education and Search engine development*.[text](https://en.wikipedia.org/wiki/Sergey_Brin)
+- Academy of Achievement. *Larry Page*. https://achievement.org/achiever/larry-page/
 
-•Sergey Brin biograpghy - (January 17, 2025) *Academy of Achievement*. [text](https://achievement.org/achiever/sergey-brin/#:~:text=Sergey%20Brin%20was%20born%20in,school%20as%20a%20small%20child.)
+- Academy of Achievement. *Sergey Brin*.https://achievement.org/achiever/sergey-brin/
 
-Tim Stumbles (September 4, 2017) *History of Google Timeline* [text](https://www.officetimeline.com/blog/google-history-timeline)
-
-
-
+- Office Timeline. *Google history timeline*. https://www.officetimeline.com/blog/google-history-timeline
